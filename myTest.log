@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.7.22)  27 JUL 2015 15:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.7.22)  27 JUL 2015 15:27
 entering extended mode
 **myTest.tex
 (myTest.tex
@@ -892,20 +892,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--28
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 32.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
  (myTest.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 32.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 32.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
 Package rerunfilecheck Info: File `myTest.out' has not changed.
 (rerunfilecheck)             Checksum: 593EB20F4AF2C477B3AF8CF4F8D299E5;70.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 32.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
  )
+(\end occurred when \if on line 30 was incomplete)
+(\end occurred when \iftrue on line 30 was incomplete)
 (\end occurred when \if on line 28 was incomplete)
 (\end occurred when \iftrue on line 28 was incomplete) 
 Here is how much of TeX's memory you used:
- 27784 strings out of 493698
- 639544 string characters out of 3144409
+ 27785 strings out of 493698
+ 639550 string characters out of 3144409
  796568 words of memory out of 3000000
  30620 multiletter control sequences out of 15000+200000
  11555 words of font info for 44 fonts, out of 3000000 for 9000
@@ -921,9 +923,9 @@ sfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on myTest.pdf (1 page, 108059 bytes).
+Output written on myTest.pdf (1 page, 108173 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 69 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
